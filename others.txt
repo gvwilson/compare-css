@@ -1,0 +1,4 @@
+11. Bare.css
+- Homepage: https://barecss.com/
+- npm: `npm install bare-css`
+- Download: https://github.com/longsien/BareCSS/archive/refs/heads/master.zip
